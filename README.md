@@ -1,2 +1,2 @@
-# ecs-flink
-quick deploy Flink on Amazon ECS
+# ec2-flink
+quick deploy Flink StandAloneCluster on Amazon EC2
